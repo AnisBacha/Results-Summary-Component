@@ -35,7 +35,7 @@ body{
     margin: var(--MARGIN-S);
     padding: var(--PADDING-S);
     font-size: var(--FONTSIZE-S);
-     font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
 
     display: flex;
     flex-flow: row wrap;
