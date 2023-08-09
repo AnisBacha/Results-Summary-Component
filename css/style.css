@@ -1,7 +1,4 @@
-@font-face {
-    font-family: Hanken;
-    src: url(../assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
 /*CSS RESET*/
 *{
     margin: 0;
@@ -38,7 +35,7 @@ body{
     margin: var(--MARGIN-S);
     padding: var(--PADDING-S);
     font-size: var(--FONTSIZE-S);
-    font-family: "Hanken";
+     font-family: 'Hanken Grotesk', sans-serif;
 
     display: flex;
     flex-flow: row wrap;
